@@ -63,3 +63,4 @@ modded class ActionMineRock
 		action_data.m_Player.GetSoftSkillsManager().AddSpecialty( m_SpecialtyWeight );
 	}
 };
+
